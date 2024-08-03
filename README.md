@@ -1,3 +1,3 @@
-# RAEPI: Predicting Enhancer-Promoter Interactions based on Restricted Attention Mechanism
+# RAEPI
 
  Code is under preparation...
